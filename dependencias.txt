@@ -1,0 +1,24 @@
+npm install expo@latest
+npm install expo-updates@latest
+npm install @react-navigation/native@latest
+npm install @react-navigation/native-stack@latest
+npm install @react-navigation/bottom-tabs@latest
+npm install expo-av@latest
+npx expo install expo-font@latest
+npx expo install expo-font @expo-google-fonts/poppins@latest
+npm install react-hook-form
+npm install @hookform/resolvers yup
+npx expo install expo-camera@latest
+npx expo install expo-sensors
+
+
+comando para atualizar as dependencias 
+npx expo install --fix
+
+
+
+comandos para instalar elementos de design:
+npm install react-native-paper
+npm install react-native-vector-icons
+npm install react-native-safe-area-context
+npm install react-native-dashed-line
